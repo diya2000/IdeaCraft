@@ -1,0 +1,1475 @@
+@media (min-width: 2001px) and (max-width: 4000px) {
+    .footer-area {
+        padding: 150px 0;
+    }
+    .welcome-mobile-device svg{
+      width: 39%;
+      left:100px;
+    }
+    .welcome-content h2 {
+      padding-top: 330px;
+    }
+}
+
+@media (min-width: 1500px) and (max-width: 2000px) {
+  nav .container{
+    margin-right: 0px;
+
+  }
+    .footer-area {
+        padding: 80px 0;
+    }
+    .welcome-mobile-device{
+      width: 43%;
+      left:80px;
+    }
+    .welcome-content h2 {
+      padding-top: 300px;
+      padding-left: 140px;
+    }
+    .welcome-content h4 {
+        padding-left: 140px;
+    }
+    .app-download-area{
+      padding-left: 140px;
+    }
+}
+
+
+@media (min-width: 1200px) and (max-width: 1499px)
+{
+
+svg {
+     width: 580px;
+     position: absolute;
+     z-index: -9;
+     bottom: -29%;
+     margin-left: 20px;
+     margin-right: 30px;
+ }
+    .welcome-content h2 {
+      padding-top: 300px;
+      padding-left: 100px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+    .welcome_area {
+        height: 600px;
+        padding-top: 20px;
+    }
+    nav .container {
+    max-width: 100vh;
+    padding-right: 0;
+}
+nav .col-12 {
+padding-right: 0 !important;
+}
+.nav div.main_list ul li {
+    width: auto;
+    height: 65px;
+    padding: 0;
+    padding-right: 1rem;
+}
+    .welcome-mobile-device svg {
+        margin-right: 15px;
+
+    width: 500px;
+    position: absolute;
+    z-index: -9;
+    bottom: -43%;
+    margin-left: 30px;
+    margin-right: 30px;
+
+    }
+
+    .welcome-content h2,
+    .about-app-content h2,
+    .app-faq-content h2,
+    .counter-area > h3,
+    .app-features-content h2,
+    .footer-content h2 {
+        font-size: 42px;
+        align-items: center;
+    }
+    .welcome-content h2{
+      padding-top: 190px;
+      font-size: 34px;
+    }
+    .welcome-content h4 {
+        font-size: 13px;
+    }
+    .about-apps-slider {
+        padding-right: 30px;
+    }
+    .about-us-bg-shape {
+        top: -20%;
+    }
+    .app-faq-content p {
+        margin-bottom: 30px;
+    }
+    .cool-facts-content > p {
+        font-size: 16px;
+    }
+    .pricing-plan-area {
+        padding: 70px 0;
+    }
+    .footer-content h4 {
+        margin: 15px 0;
+        font-size: 18px;
+    }
+    .footer-social-info {
+        margin: 15px 0;
+    }
+    .selene-breadcumb-area {
+        height: 280px;
+    }
+    .bradcumbContent h2 {
+        font-size: 24px;
+    }
+    .app-download-btn a {
+
+        padding: 10px 30px;
+
+}
+}
+
+@media   (max-width: 991px)and (min-width: 768px) {
+  nav .container {
+  max-width: 100vh;
+  padding-right: 0;
+}
+nav .col-12 {
+padding-right: 0 !important;
+}
+.nav div.main_list ul li {
+  width: auto;
+  height: 65px;
+  padding: 0;
+  padding-right: 0.5rem;
+}
+    #selene-navbar {
+        padding: 15px;
+        border-radius: 3px;
+        background-color: #292d4f;
+        text-align: left;
+    }
+    .header_area .navbar {
+        padding: 20px 0 0 0;
+        height: 80px;
+    }
+    .header_area.sticky .navbar {
+        padding: 0;
+        height: 70px;
+    }
+    .menu_area #nav .nav-link,
+    .header_area.sticky .menu_area #nav .nav-link {
+        padding: 10px 5px;
+    }
+    .menu_area #nav .nav-link:hover,
+    .header_area.sticky .menu_area #nav .nav-link:hover {
+        color: #fff;
+        padding-left: 10px;
+    }
+    .welcome_area {
+      padding-top: 180px; height: 600px;}
+
+
+    .welcome-content h2,
+    .about-app-content h2,
+    .app-faq-content h2,
+    .counter-area > h3,
+    .app-features-content h2,
+    .footer-content h2 {
+        font-size: 30px;
+
+    }
+
+    .welcome-content h4 {
+        font-size: 12px;
+    }
+    .welcome-content h2{
+        padding-top:30px;
+        font-size: 24px;
+
+    }
+    .app-download-btn:first-child {
+        margin-right: 10px;
+
+
+    }
+    .app-download-btn a {
+      padding: 10px;
+
+    }
+    .app-download-btn a p{
+
+      font-size: 12px;
+    }
+    .welcome-mobile-device svg {
+
+
+            margin-right: 15px;
+
+        width: 430px;
+        position: absolute;
+        z-index: -9;
+        bottom: -43%;
+        margin-left: 10px;
+        margin-right: 30px;
+
+         }
+   svg{
+      animation: none;
+    }
+    .app-download-area,
+    .app-feature-icon {
+        margin-top: 10px;
+    }
+    .about-app-content p {
+        color: #9597a6;
+    }
+    .about-apps-slider {
+        padding-right: 15px;
+    }
+    .cool-facts-content > p {
+        font-size: 12px;
+    }
+    .footer-content h4 {
+        margin: 15px 0;
+        font-size: 14px;
+    }
+    .footer-social-info {
+        margin: 15px 0;
+    }
+    .footer-social-info a {
+        font-size: 18px;
+        margin: 0 15px;
+    }
+    .copyright-text > p {
+        font-size: 14px;
+    }
+    .pricing-plan-area {
+        padding: 50px 0;
+    }
+    .bradcumbContent h2,
+    .bradcumbContent .breadcrumb-item a,
+    .bradcumbContent .breadcrumb-item {
+        color: inherit;
+    }
+    .blog-area,
+    .contact-area {
+        padding: 70px;
+    }
+    .contact-information p {
+    line-height: 1.6;
+    margin-bottom: 20px;
+}
+
+}
+
+@media (min-width: 480px) and (max-width: 767px) {
+  nav .container {
+  max-width: 100vh;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.navTrigger {
+    cursor: pointer;
+    width: 30px;
+height: 10 !important;
+
+    margin:0;
+    position: absolute;
+    right: 19px;
+    top: 24px;
+    bottom: 0;
+}
+header .col-12 {
+padding-right: 0 !important;
+padding-left: 0 !important;
+}
+
+.nav div.main_list ul{
+padding-top: 130px;
+}
+.nav div.main_list ul li {
+
+  width: auto;
+  height: 140px;
+  padding: 0;
+
+  font-weight: 200 !important;
+  padding-right: 0.5rem;
+}
+  .welcome-bg-shape .welcome-first-shape {
+      left: 0;
+      top: 0;
+      width: 100%;
+      position: absolute;
+      z-index: -2;
+      height: 21.5%;
+
+  }
+  .welcome-bg-shape .welcome-first-part2-shape{
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    z-index: -4;
+    height: 30%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+filter: drop-shadow(5px 5px 5px #222);  }
+  .welcome-bg-shape .welcome-second-shape {
+      left: 0;
+      top: 0;
+      position: absolute;
+      z-index: -2;
+      height: 24%;
+
+
+  }
+  .welcome-bg-shape .welcome-first-part3-shape{
+    left: 0;
+    top: 11%;
+    position: absolute;
+    z-index: -1;
+
+
+  }
+
+    .services-content-mobile-area {
+        padding-right: 0;
+        overflow-x: hidden;
+        padding-left: 100px;
+        margin-bottom: 50px;
+    }
+    .services-text h2 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .header_area,
+    .blog-area {
+        padding: 0;
+    }
+    .map-area {
+        margin-top: 100px;
+    }
+    .header_area .navbar {
+        padding: 20px 0 0 20;
+        height: 60px;
+    }
+    #selene-navbar {
+        padding: 15px;
+        border-radius: 3px;
+        background-color: #292d4f;
+        text-align: left;
+    }
+    .menu_area #nav .nav-link,
+    .header_area.sticky .menu_area #nav .nav-link {
+        padding: 5px;
+    }
+    .menu_area #nav .nav-link:hover,
+    .header_area.sticky .menu_area #nav .nav-link:hover {
+        color: #fff;
+        padding-left: 10px;
+    }
+    .search-form-area #search {
+        width: 300px;
+        margin-top: 15px;
+    }
+    .menu_area .navbar-brand {
+        font-size: 20px;
+        left: 20px;
+    }
+    .welcome_area {
+        height:500px;
+
+    }
+    .welcome_area h2{
+      margin-top: 00px;
+    }
+    .welcome-mobile-device img:first-child {
+        margin-right: 15px;
+    }
+    .welcome-content h2,
+    .about-app-content h2,
+    .app-faq-content h2,
+    .counter-area > h3,
+    .app-features-content h2,
+    .footer-content h2 {
+        font-size: 30px;
+    }
+  .welcome-content h2{
+    padding-top: 200px;
+    padding-left:60px;
+    padding-right: 60px;
+    text-align: center;
+  }
+    .welcome-content h4 {
+        font-size: 16px;
+          padding-left:40px;
+              padding-right: 30px;
+    }
+    .app-download-area{
+      padding-top: 20px;
+      padding-left: 0px;
+
+    }
+    .app-download-btn:first-child {
+      display: flex;
+      justify-content: center;
+        margin-right: 0;
+        margin-bottom: 15px;  }
+    .app-download-btn a{
+      padding: 25px 120px;
+    }
+    .welcome-mobile-device {
+        display: none;
+    }
+    .app-download-area {
+        display: block;
+        margin-top: 30px;
+    }
+    .scroll-down-btn a {
+        margin-top: 50px;
+    }
+    .about-apps-slider {
+        padding-right: 0;
+    }
+    .about-app-content {
+        padding-right: 0;
+        margin-top: 50px;
+    }
+    .about-app-content h2,
+    .about-app-content p {
+        color: #000;
+        justify-content: center;
+    display: flex;
+    }
+    .c-section span:after {
+      word-spacing: 1.3;
+    content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+     dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+}
+.about-app-area h4 {
+
+    padding: 0 0px;
+}
+
+    .contact-area {
+        padding: 40px;
+    }
+    .elements-area {
+        padding: 0 0 100px;
+    }
+
+}
+
+@media (max-width: 480px) and (min-width: 436px) {
+  nav .container {
+  max-width: 100vh;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.navTrigger {
+    cursor: pointer;
+    width: 30px;
+height: 10 !important;
+
+    margin:0;
+    position: absolute;
+    right: 19px;
+    top: 30px;
+    bottom: 0;
+}
+header .col-12 {
+padding-right: 0 !important;
+padding-left: 0 !important;
+}
+
+.nav div.main_list ul li {
+  width: auto;
+  height: 140px;
+  padding: 0;
+
+  font-weight: 200 !important;
+  padding-right: 0.5rem;
+}
+
+.nav div.main_list ul{
+padding-top: 130px;
+}
+
+  .welcome-bg-shape .welcome-first-shape {
+      left: 0;
+      top: 0;
+      width: 100%;
+      position: absolute;
+      z-index: -2;
+      height: 21.5%;
+
+  }
+  .welcome-bg-shape .welcome-first-part2-shape{
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    z-index: -4;
+    height: 30%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+filter: drop-shadow(5px 5px 5px #222);
+  }
+  .welcome-bg-shape .welcome-second-shape {
+      left: 0;
+      top: 0;
+      position: absolute;
+      z-index: -2;
+      height: 24%;
+
+
+  }
+  .welcome-bg-shape .welcome-first-part3-shape{
+    left: 0;
+    top: 11%;
+    position: absolute;
+    z-index: -1;
+
+
+  }
+  .services-content-mobile-area {
+      padding-right: 0;
+      overflow-x: hidden;
+      padding-left: 100px;
+      margin-bottom: 50px;
+  }
+  .services-text h2 {
+      font-size: 30px;
+      margin-bottom: 30px;
+  }
+  .header_area,
+  .blog-area {
+      padding: 0;
+  }
+  .map-area {
+      margin-top: 100px;
+  }
+  .header_area .navbar {
+      padding: 20px 0 0 20;
+      height: 60px;
+  }
+  #selene-navbar {
+      padding: 15px;
+      border-radius: 3px;
+      background-color: #292d4f;
+      text-align: left;
+  }
+  .menu_area #nav .nav-link,
+  .header_area.sticky .menu_area #nav .nav-link {
+      padding: 5px;
+  }
+  .menu_area #nav .nav-link:hover,
+  .header_area.sticky .menu_area #nav .nav-link:hover {
+      color: #fff;
+      padding-left: 10px;
+  }
+  .search-form-area #search {
+      width: 300px;
+      margin-top: 15px;
+  }
+  .menu_area .navbar-brand {
+      font-size: 20px;
+      left: 20px;
+  }
+  .welcome_area {
+      height:500px;
+
+  }
+  .welcome_area h2{
+    margin-top: 00px;
+  }
+  .welcome-mobile-device img:first-child {
+      margin-right: 15px;
+  }
+  .welcome-content h2,
+  .about-app-content h2,
+  .app-faq-content h2,
+  .counter-area > h3,
+  .app-features-content h2,
+  .footer-content h2 {
+      font-size: 30px;}
+.welcome-content h2{
+  padding-top: 200px;
+  padding-left:55px;
+text-align: center;
+  padding-right: 60px;
+}
+  .welcome-content h4 {
+      font-size: 16px;
+
+            padding-right: 30px;
+                padding-left: 40px;
+  }
+  .app-download-area{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+  }
+  .app-download-btn {
+      margin-right: 0;
+    padding-right: 0;
+      margin-bottom: 15px;  }
+  .app-download-btn a{
+    padding: 25px 120px;
+    justify-content: center;
+    display: flex;
+  }
+  .welcome-mobile-device {
+      display: none;
+  }
+  .app-download-area {
+      display: block;
+      margin-top: 30px;
+  }
+  .scroll-down-btn a {
+      margin-top: 50px;
+  }
+  .about-apps-slider {
+      padding-right: 0;
+  }
+  .about-app-content {
+      padding-right: 0;
+      margin-top: 50px;
+  }
+  .about-app-content h2,
+  .about-app-content p {
+      color: #000;
+      justify-content: center;
+  display: flex;
+  }
+  .c-section span:after {
+    word-spacing: 1.3;
+  content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+   dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+}
+.about-app-area h4 {
+
+  padding: 0 0px;
+}
+  .app-feature-icon {
+      margin-top: 30px;
+
+  justify-content: center;
+
+  }
+  .app-users-map-area {
+      width: 100%;
+      position: relative;
+      top: 0;
+      margin-top: 30px;
+  }
+  .coolfacts-content {
+      position: relative;
+      z-index: 9;
+      width: 100%;
+      top: 0;
+      -webkit-transform: translateY(0);
+      transform: translateY(0);
+      margin-top: 30px;
+  }
+  .single-cool-fact {
+      margin-bottom: 30px;
+  }
+  .cool-facts-content > p,
+  .counter-area > h3 {
+      color: #000;
+  }
+  .app-feature-side-thumb {
+      width: 100%;
+      position: relative;
+      top: 0;
+      right: -30px;
+      z-index: 2;
+      -webkit-transform: translateY(0);
+      transform: translateY(0);
+  }
+  .pricing-plan-area {
+      padding: 50px 0;
+  }
+  .footer-content h2 {
+      color: #000;
+  }
+  .footer-content h4 {
+      color: #000;
+      margin: 15px 0;
+      font-size: 16px;
+  }
+  .footer-social-info a {
+      font-size: 16px;
+      margin: 0 10px;
+  }
+  .copyright-text > p {
+      font-size: 14px;
+  }
+  .about-us-bg-shape {
+      top: 0;
+  }
+  .selene-breadcumb-area {
+      height: 300px;
+  }
+  .bradcumbContent h2,
+  .bradcumbContent .breadcrumb-item a,
+  .bradcumbContent .breadcrumb-item {
+      color: inherit;
+  }
+  .single-pie-bar,
+  .contact-form-area {
+      margin-bottom: 50px;
+  }
+  .aboutUs-headline h2,
+  .bradcumbContent h2,
+  .single-blog h2 {
+      font-size: 30px;
+  }
+  #googleMap {
+      width: calc(100% - 30px);
+      height: 400px;
+      margin: 0 15px 50px;
+  }
+  .contact-area {
+      padding: 40px;
+  }
+  .elements-area {
+      padding: 0 0 100px;
+  }
+  .selene-btn {
+      margin-bottom: 15px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+  .welcome-bg-shape .welcome-first-shape {
+      left: 0;
+      top: 0;
+      width: 100%;
+      position: absolute;
+      z-index: -2;
+      height: 26.5%;
+
+  }
+  .welcome-bg-shape .welcome-first-part2-shape{
+    left: 0;
+    top: 0;
+    width: 100%;
+    position: absolute;
+    z-index: -4;
+    height: 37%;
+    -webkit-filter: drop-shadow(5px 5px 5px #222);
+    nav .container {
+    max-width: 100vh;
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
+  .navTrigger {
+      cursor: pointer;
+      width: 30px;
+  height: 10 !important;
+
+      margin:0;
+      position: absolute;
+      right: 19px;
+    margin-top: 10px;
+      bottom: 0;
+  }
+  header .col-12 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  }
+  .nav div.main_list ul li {
+    width: auto;
+    height: 140px;
+    padding: 0;
+    padding-top: 130px;
+    font-weight: 200 !important;
+    padding-right: 0.5rem;
+  }
+filter: drop-shadow(5px 5px 5px #222);
+  }
+  .welcome-bg-shape .welcome-second-shape {
+      left: 0;
+      top: 0;
+      position: absolute;
+      z-index: -2;
+      height: 24%;
+
+
+  }
+  .welcome-bg-shape .welcome-first-part3-shape{
+    left: 0;
+    top: 13%;
+    position: absolute;
+    z-index: -1;
+
+
+  }
+    .welcome_area {
+        height: 500px;
+            padding-top: 20px;
+    }
+    .single-pie-bar {
+        margin-bottom: 50px;
+    }
+    .aboutUs-headline h2 {
+        font-size: 30px;
+    }
+    .app-download-area {
+          justify-content: center;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        margin-top: 30px;
+    }
+    .app-download-btn:first-child {
+        margin-right: 20px;
+        margin-bottom: 0;
+    }
+
+}
+@media (max-width:436px) and (min-width:431px){
+  nav .container {
+  max-width: 100vh;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  }
+  .navTrigger {
+    cursor: pointer;
+    width: 30px;
+  height: 10 !important;
+
+    margin:0;
+    position: absolute;
+    right: 19px;
+  margin-top: 20px;
+    bottom: 0;
+  }
+  header .col-12 {
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+  }
+  .nav div.main_list ul{
+      padding-top: 130px;
+  }
+  .nav div.main_list ul li {
+  width: auto;
+  height: 140px;
+  padding: 0;
+
+  font-weight: 200 !important;
+  padding-right: 0.5rem;
+  }
+  .services-content-mobile-area {
+    padding-right: 0;
+    overflow-x: hidden;
+    padding-left: 100px;
+    margin-bottom: 50px;}
+.services-text h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.header_area,
+.blog-area {
+    padding: 0;
+}
+.map-area {
+    margin-top: 100px;
+}
+.header_area .navbar {
+    padding: 20px 0 0 20;
+    height: 60px;
+}
+#selene-navbar {
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #292d4f;
+    text-align: left;
+}
+.menu_area #nav .nav-link,
+.header_area.sticky .menu_area #nav .nav-link {
+    padding: 5px;
+}
+.menu_area #nav .nav-link:hover,
+.header_area.sticky .menu_area #nav .nav-link:hover {
+    color: #fff;
+    padding-left: 10px;
+}
+.search-form-area #search {
+    width: 300px;
+    margin-top: 15px;
+}
+.menu_area .navbar-brand {
+    font-size: 20px;
+    left: 20px;
+}
+.welcome_area {
+    height:500px;
+
+}
+.welcome_area h2{
+  margin-top: 00px;
+}
+.welcome-mobile-device img:first-child {
+    margin-right: 15px;
+}
+.welcome-content h2,
+.about-app-content h2,
+.app-faq-content h2,
+.counter-area > h3,
+.app-features-content h2,
+.footer-content h2 {
+    font-size: 30px;
+}
+.welcome-content h2{
+padding-top: 200px;
+padding-left:55px;
+padding-right: 60px;
+}
+.welcome-content h4 {
+    font-size: 16px;
+
+          padding-right: 30px;
+              padding-left: 40px;
+}
+.app-download-area{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: center;
+}
+.app-download-btn {
+    margin-right: 0;
+  padding-right: 0;
+    margin-bottom: 15px;  }
+.app-download-btn a{
+  padding: 25px 10px;
+  justify-content: center;
+  display: flex;
+}
+.welcome-mobile-device {
+    display: none;
+}
+.app-download-area {
+    display: block;
+    margin-top: 30px;
+}
+.scroll-down-btn a {
+    margin-top: 50px;
+}
+.about-apps-slider {
+    padding-right: 0;
+}
+.about-app-content {
+    padding-right: 0;
+    margin-top: 50px;
+}
+.about-app-content h2,
+.about-app-content p {
+    color: #000;
+    justify-content: center;
+display: flex;
+}
+.c-section span:after {
+  word-spacing: 1.3;
+content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+ dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+}
+.about-app-area h4 {
+
+padding: 0 0px;
+}
+.app-feature-icon {
+    margin-top: 30px;
+
+justify-content: center;
+
+}
+
+.contact-area {
+    padding: 40px;
+}
+.elements-area {
+    padding: 0 0 100px;
+}
+.selene-btn {
+    margin-bottom: 15px;
+}
+}
+/* fghjkhgffg footer */
+@media only screen and (max-width: 440px)
+
+footer {
+    text-align: center;
+}
+@media (max-width:431px) and (min-width:320px){
+
+  .welcome-bg-shape .welcome-first-shape {
+    height: 15.5%;
+  }
+
+  .welcome-bg-shape .welcome-first-part2-shape{
+      height: 22%;
+  }
+  .services-content-mobile-area {
+    padding-right: 0;
+    overflow-x: hidden;
+    padding-left: 100px;
+    margin-bottom: 50px;}
+.services-text h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.header_area,
+.blog-area {
+    padding: 0;
+}
+.three .transition {
+
+    margin-top: 20px;
+       margin-left: 0px;
+
+}
+.three > li span {
+
+    left: -110px;
+}
+.map-area {
+    margin-top: 100px;
+}
+.header_area .navbar {
+    padding: 20px 0 0 20;
+    height: 60px;
+}
+#selene-navbar {
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #292d4f;
+    text-align: left;
+}
+.menu_area #nav .nav-link,
+.header_area.sticky .menu_area #nav .nav-link {
+    padding: 5px;
+}
+.menu_area #nav .nav-link:hover,
+.header_area.sticky .menu_area #nav .nav-link:hover {
+    color: #fff;
+    padding-left: 10px;
+}
+.search-form-area #search {
+    width: 300px;
+    margin-top: 15px;
+}
+.menu_area .navbar-brand {
+    font-size: 20px;
+    left: 20px;
+}
+.welcome_area {
+    height:800px;
+
+}
+.
+.welcome_area h2{
+  margin-top: 00px;
+}
+.welcome-mobile-device img:first-child {
+    margin-right: 15px;
+}
+.welcome-content h2,
+.about-app-content h2,
+.app-faq-content h2,
+.counter-area > h3,
+.app-features-content h2,
+.footer-content h2 {
+    font-size: 30px;
+}
+.welcome-content h2{
+padding-top: 450px;
+padding-left:0px;
+padding-right: 0px;
+text-align: center;
+}
+.six {
+
+    margin: 20px -100;
+
+}
+.welcome-content h4 {
+    font-size: 16px;
+    text-align: center;
+          padding-right: 30px;
+              padding-left: 40px;
+}
+.app-download-area{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: flex;
+  justify-content: center;
+}
+.app-download-btn {
+    margin-right: 0;
+  padding-right: 0;
+    margin-bottom: 15px;  }
+.app-download-btn a{
+  padding: 25px 10px;
+  justify-content: center;
+  display: flex;
+}
+.welcome-mobile-device {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    margin-top: 0px;
+    margin-right: 10px;
+}
+svg{
+  width: 80%;
+
+}
+.app-download-area {
+    display: block;
+    margin-top: 0px;
+}
+.scroll-down-btn a {
+    margin-top: 50px;
+}
+.about-apps-slider {
+    padding-right: 0;
+}
+.about-app-content {
+    padding-right: 0;
+    margin-top: 50px;
+}
+.about-app-content h2,
+.about-app-content p {
+    color: #000;
+    justify-content: center;
+display: flex;
+}
+.c-section span:after {
+  word-spacing: 1.3;
+content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+ dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+}
+.about-app-area h4 {
+
+padding: 0 0px;
+}
+.app-feature-icon {
+    margin-top: 30px;
+
+justify-content: center;
+
+}
+
+.contact-area {
+    padding: 40px;
+}
+
+}
+@media (max-width:431px) and (min-width:320px){
+  nav .container {
+  max-width: 100vh;
+  padding-right: 0 !important;
+  padding-left: 0 !important;
+}
+.navTrigger {
+    cursor: pointer;
+    width: 30px;
+height: 10 !important;
+
+    margin:0;
+    position: absolute;
+    right: 19px;
+top: 27px;
+    bottom: 0;
+}
+header .col-12 {
+padding-right: 0 !important;
+padding-left: 0 !important;
+}
+.nav a{
+  height:20px;
+  padding-top: 0;
+  display:inline-block !important;
+}
+.nav div.main_list ul {
+  padding-top: 100px;
+}
+.nav div.main_list ul li {
+  width: auto;
+
+  padding: 0;
+    padding-bottom: 80px;
+  font-weight: 200 !important;
+  padding-right: 0.5rem;
+}
+  .services-content-mobile-area {
+    padding-right: 0;
+    overflow-x: hidden;
+    padding-left: 100px;
+    margin-bottom: 50px;}
+.services-text h2 {
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+
+.three .transition {
+
+    margin-top: 20px;
+       margin-left: 0px;
+
+}
+.three > li span {
+
+    left: -110px;
+}
+
+.header_area,
+.blog-area {
+    padding: 0;
+}
+.map-area {
+    margin-top: 100px;
+}
+.header_area .navbar {
+    padding: 20px 0 0 20;
+    height: 60px;
+}
+#selene-navbar {
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #292d4f;
+    text-align: left;
+}
+.menu_area #nav .nav-link,
+.header_area.sticky .menu_area #nav .nav-link {
+    padding: 5px;
+}
+.menu_area #nav .nav-link:hover,
+.header_area.sticky .menu_area #nav .nav-link:hover {
+    color: #fff;
+    padding-left: 10px;
+}
+.search-form-area #search {
+    width: 300px;
+    margin-top: 15px;
+}
+.menu_area .navbar-brand {
+    font-size: 20px;
+    left: 20px;
+}
+.welcome_area {
+    height:750px;
+
+}
+
+.welcome-bg-shape .welcome-first-shape {
+  height: 14%;
+}
+
+.welcome-bg-shape .welcome-first-part2-shape{
+    height: 20%;
+
+}
+.welcome_area h2{
+  margin-top: 00px;
+}
+.welcome-mobile-device img:first-child {
+    margin-right: 15px;
+}
+.six{
+  margin: 20px -100px;
+}
+.six > li{
+width: 290px;
+}
+.six > li .wrapper {
+
+  width: 290px;
+  height: 500px;
+}
+
+.six > li span {
+
+  bottom: -290px;
+  left: -100px;
+}
+.welcome-content h2,
+.about-app-content h2,
+.app-faq-content h2,
+.counter-area > h3,
+.app-features-content h2,
+.footer-content h2 {
+    font-size: 30px;
+}
+.welcome-content h2{
+padding-top: 400px;
+padding-left: 0;
+text-align: center;}
+.welcome-content h4 {
+    font-size: 16px;
+text-align: center;
+
+          padding-right: 30px;
+              padding-left: 40px;
+}
+.app-download-area{
+  padding-top: 20px;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  display: flex;
+  justify-content: center;
+}
+.app-download-btn {
+    margin-right: 0;
+  padding-right: 0;
+    margin-bottom: 15px;  }
+.app-download-btn a{
+  padding: 25px 10px;
+  justify-content: center;
+  display: flex;
+  margin-bottom: 50px;
+}
+.welcome-mobile-device {
+    position: relative;
+margin-top: 20px;
+display: flex;
+justify-content: center;
+margin-right: 20px;}
+svg{
+  width: 80%;
+}
+.app-download-area {
+    display: block;
+    margin-top: 0px;
+}
+.scroll-down-btn a {
+    margin-top: 50px;
+}
+.about-apps-slider {
+    padding-right: 0;
+}
+.about-app-content {
+    padding-right: 0;
+    margin-top: 50px;
+}
+.about-app-content h2,
+.about-app-content p {
+    color: #000;
+    justify-content: center;
+display: flex;
+}
+.c-section span:after {
+  word-spacing: 1.3;
+content: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed
+ dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.";
+}
+.about-app-area h4 {
+
+padding: 0 0px;
+}
+.app-feature-icon {
+    margin-top: 30px;
+
+justify-content: center;
+
+}
+.app-users-map-area {
+    width: 100%;
+    position: relative;
+    top: 0;
+
+    margin-top: 30px;
+}
+.coolfacts-content {
+    position: relative;
+    z-index: 9;
+    width: 100%;
+    top: 0;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+    margin-top: 30px;
+}
+.single-cool-fact {
+    margin-bottom: 30px;
+}
+.cool-facts-content > p,
+.counter-area > h3 {
+    color: #000;
+}
+.app-feature-side-thumb {
+    width: 100%;
+    position: relative;
+    top: 0;
+    right: -30px;
+    z-index: 2;
+    -webkit-transform: translateY(0);
+    transform: translateY(0);
+}
+.pricing-plan-area {
+    padding: 50px 0;
+}
+.footer-content h2 {
+    color: #000;
+}
+.footer-content h4 {
+    color: #000;
+    margin: 15px 0;
+    font-size: 16px;
+}
+.footer-social-info a {
+    font-size: 16px;
+    margin: 0 10px;
+}
+.copyright-text > p {
+    font-size: 14px;
+}
+.about-us-bg-shape {
+    top: 0;
+}
+.selene-breadcumb-area {
+    height: 300px;
+}
+.bradcumbContent h2,
+.bradcumbContent .breadcrumb-item a,
+.bradcumbContent .breadcrumb-item {
+    color: inherit;
+}
+.single-pie-bar,
+.contact-form-area {
+    margin-bottom: 50px;
+}
+.aboutUs-headline h2,
+.bradcumbContent h2,
+.single-blog h2 {
+    font-size: 30px;
+}
+#googleMap {
+    width: calc(100% - 30px);
+    height: 400px;
+    margin: 0 15px 50px;
+}
+.contact-area {
+    padding: 40px;
+    padding-bottom: 78px;
+}
+.elements-area {
+    padding: 0 0 100px;
+}
+.selene-btn {
+    margin-bottom: 15px;
+}
+}
